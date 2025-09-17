@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 120
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: true
+PenaltyBreakBeforeFirstCallParameter: 100
+AlignConsecutiveAssignments: false
